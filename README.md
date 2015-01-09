@@ -1,4 +1,4 @@
-# Skeleton for create a website prototype.
+# Skeleton for create a website prototype
 
 ## Requirements
 
@@ -13,12 +13,6 @@ Create project by `composer create-project`:
 
 ```
 $ composer create-project jaceju/web-prototype my-protoype --stability=dev
-```
-
-## Gem bundle
-
-```
-$ bundle install --path=.bundle
 ```
 
 ## Gulp commands
