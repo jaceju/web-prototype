@@ -1,4 +1,4 @@
-# WebPrototype: Skeleton for create a website prototype.
+# Skeleton for create a website prototype.
 
 ## Requirements
 
