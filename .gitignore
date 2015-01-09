@@ -8,8 +8,9 @@
 /public/bower_components
 /node_modules
 /styleguide
-.bundle
-.sass-cache
+/vendor/
+/.bundle
+/.sass-cache
 .DS_Store
 Thumbs.db
-/vendor/
+Gemfile.lock
